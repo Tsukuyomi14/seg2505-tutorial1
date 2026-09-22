@@ -1,1 +1,1 @@
-Bienvenue dans mon nouveau projet
+Bienvenue dans notre nouveau projet
